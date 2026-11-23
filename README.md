@@ -1,5 +1,18 @@
 # Sri Lankan House Price Prediction Using Ensemble Learning
 
+
+## Live Application
+
+The interactive Sri Lankan House Price Prediction Dashboard
+is deployed using Streamlit Community Cloud.
+
+**Live Dashboard:**
+https://sri-lanka-house-price-ensemble-learning-nvazrkd2bpqrjftwigwp4f.streamlit.app/
+
+Users can explore the dataset, compare ensemble models,
+and generate house-price predictions without installing Python.
+
+
 ## 1. Project Overview
 
 This project implements and compares different Ensemble Machine Learning techniques for predicting residential property asking prices in Sri Lanka.
