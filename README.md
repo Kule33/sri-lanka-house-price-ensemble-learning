@@ -320,3 +320,16 @@ ChatGPT was used to support code development, debugging, explanation of machine 
 Ivantha. *Sri Lanka Property Ads Dataset*. Kaggle.
 
 https://www.kaggle.com/datasets/ivantha/sri-lanka-property-ads-dataset
+
+
+
+## Live Application
+
+The interactive Sri Lankan House Price Prediction Dashboard
+is deployed using Streamlit Community Cloud.
+
+**Live Dashboard:**
+https://sri-lanka-house-price-ensemble-learning-nvazrkd2bpqrjftwigwp4f.streamlit.app/
+
+Users can explore the dataset, compare ensemble models,
+and generate house-price predictions without installing Python.
