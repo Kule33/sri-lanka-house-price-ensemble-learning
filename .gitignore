@@ -1,0 +1,38 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment and secret files
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Original large dataset
+properties.csv
+
+# Incompatible old XGBoost model
+models/xgboost.joblib
+
+# Temporary XGBoost verification files
+models/xgb_check_inputs.csv
+models/xgb_check_expected.csv
+
+# Temporary outputs
+*.log
+*.zip
+
+# Local recorded videos
+*.mp4
+
+# Editor configuration
+.vscode/
+.idea/

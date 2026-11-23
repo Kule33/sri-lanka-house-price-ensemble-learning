@@ -1,0 +1,20 @@
+{
+    "project": "Sri Lankan House Price Prediction",
+    "selected_model": "Stacking",
+    "base_model_order": [
+        "Random Forest",
+        "XGBoost",
+        "CatBoost"
+    ],
+    "features": [
+        "location",
+        "bedrooms",
+        "bathrooms",
+        "house_size_sqft",
+        "land_size_perches"
+    ],
+    "target": "price_million",
+    "price_unit": "Millions of LKR",
+    "data_description": "Historical Sri Lankan advertised house prices",
+    "limitations": "Predictions estimate historical advertised asking prices, not current transaction values."
+}
